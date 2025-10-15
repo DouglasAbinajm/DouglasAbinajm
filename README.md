@@ -19,7 +19,9 @@ Atualmente, foco em desenvolvimento **Full Stack**, com ênfase em **JavaScript*
 
 <h2 align="center">🚀 Tecnologias e Ferramentas</h2>
 
-![dd924ceaf40e9299db5e4ca79164b8d2094d6388_hq](https://github.com/user-attachments/assets/bc3fce1f-dea4-41dc-8776-2f9367eb1dfc)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/bc3fce1f-dea4-41dc-8776-2f9367eb1dfc" width="550" alt="coding gif" />
+</div>
 
 ### 💻 Backend
 <div align="left">
@@ -52,10 +54,6 @@ Atualmente, foco em desenvolvimento **Full Stack**, com ênfase em **JavaScript*
 
 <h2 align="center">🎖️ Conquistas</h2>
 
-<div align="center">
-  
-
-</div>
 
 ---
 
